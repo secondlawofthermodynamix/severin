@@ -32,7 +32,7 @@ user-select: none; /* Standard */
   font-weight: normal;
   src: url('fonts/Helvetica.woff') format('woff');;
 }
-
+ 
 @font-face {
   font-family: 'Black';
   font-style: normal;
